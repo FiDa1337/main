@@ -1,0 +1,45 @@
+{
+  "name": "noir",
+  "version": "4.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "noir4": "Hyper.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@independentsoft/msg": "^1.0.2",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.3",
+    "colors": "^1.4.0",
+    "console-stamp": "^3.0.2",
+    "death": "^1.1.0",
+    "ejs": "^3.1.6",
+    "email-to-name": "^2.0.2",
+    "form-data": "^4.0.0",
+    "html-pdf": "^3.0.1",
+    "html-pdf-node": "^1.0.7",
+    "html-to-image": "^1.7.0",
+    "hwid": "^0.4.1",
+    "inquirer": "^8.1.1",
+    "loading-cli": "^1.1.0",
+    "locate-chrome": "^0.1.1",
+    "node-html-to-image": "^3.2.0",
+    "eml-format": "^0.6.1",
+    "nodemailer": "^6.6.2",
+    "ora": "^5.4.1",
+    "puppeteer": "^10.2.0",
+    "random-ipv4": "^1.0.2",
+    "random-places": "^1.0.13",
+    "save-me-pls": "^1.0.3",
+    "socks": "^2.6.1",
+    "urlencode": "^1.1.0",
+    "twitter-lite": "^1.1.0"
+  }
+}
